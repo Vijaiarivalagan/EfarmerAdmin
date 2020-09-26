@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "689035562800",
+    "firebase_url": "https://farmersmarket-4a635.firebaseio.com",
+    "project_id": "farmersmarket-4a635",
+    "storage_bucket": "farmersmarket-4a635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689035562800:android:20a1ea769a066b33",
+        "android_client_info": {
+          "package_name": "com.geforce.vijai.efarmeradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689035562800-6udkb4t782a5h7pegc3t826n4k5j7v0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geforce.vijai.efarmeradmin",
+            "certificate_hash": "5d29f7f171a8737f978c15c470023f5c1549fc3e"
+          }
+        },
+        {
+          "client_id": "689035562800-s9lunbebjv46jfc1s73cnf2clrkflvas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbuojpr0QSFZSTwoEHW1rSXBce0dqdeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689035562800-s9lunbebjv46jfc1s73cnf2clrkflvas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689035562800:android:a8c8b1ecd34b4381",
+        "android_client_info": {
+          "package_name": "com.geforce.vijai.efarmermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689035562800-8n655igdo5m6n7ehfaie5c1rhjd4ee1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geforce.vijai.efarmermarket",
+            "certificate_hash": "5d29f7f171a8737f978c15c470023f5c1549fc3e"
+          }
+        },
+        {
+          "client_id": "689035562800-s9lunbebjv46jfc1s73cnf2clrkflvas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbuojpr0QSFZSTwoEHW1rSXBce0dqdeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689035562800-s9lunbebjv46jfc1s73cnf2clrkflvas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
